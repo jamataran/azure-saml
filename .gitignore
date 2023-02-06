@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+.idea/
+
+### Private files
+src/main/resources/saml
+src/main/resources/ssl
